@@ -1,0 +1,51 @@
+html, body {
+    background-color: rgb(255, 247, 154);
+    padding: 0;
+    margin: 0;
+}
+.top-footer{
+    background-color: rgb(150, 0, 187);
+}
+.menu-item{
+    color: white;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+.screen01{
+    background-color: rgb(255, 173, 100);
+    padding: 25px;
+    margin: 30px;
+    text-align: center;
+}
+.screen02{
+    background-color: rgb(255, 173, 100);
+    padding: 25px;
+    margin: 30px;
+    text-align: center;
+}
+.screen03{
+    background-color: rgb(255, 173, 100);
+    padding: 25px;
+    margin: 30px;
+    text-align: center;
+}
+.imge{
+    width: 30%;
+    border: 4px solid powderblue;
+}
+.button{
+    font-size: medium;
+    color: white;
+    background-color: rgb(255, 56, 56 );
+    display: inline-block;
+    width: 8%;
+    height: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+.botton-footer{
+    color: white;
+    background-color: black;
+    padding: 20px;
+}

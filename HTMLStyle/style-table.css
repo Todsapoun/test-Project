@@ -1,0 +1,20 @@
+table, th,td{
+    border: 1px gray;
+    background-color: rgb(0, 179, 80);
+    border: solid;
+}
+.frame-product{
+    align-content: center;
+    background-color: rgb(245, 114, 175);
+    border: 1px rgb(73, 48, 0);
+    border-style: groove;
+    margin-top: 80px;
+    margin-left: 675px;
+}
+.button-pro{
+    background-color: skyblue;
+    border-radius: 25px;
+    font-size: 20px;
+    margin: 25px;
+    margin-left: 50px;
+}
